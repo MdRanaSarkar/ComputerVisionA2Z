@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>01.jpg</filename>
+	<path>D:/Project/GB71/Working file/Shape _XML_file/A0115/Images/01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A0115</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>242</ymin>
+			<xmax>473</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>white_rectangle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>292</ymin>
+			<xmax>474</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>
